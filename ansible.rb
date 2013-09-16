@@ -4,7 +4,7 @@ class Ansible < Formula
   homepage 'http://ansible.github.com/'
   head 'https://github.com/ansible/ansible.git', :using => :git
   url 'https://github.com/ansible/ansible/archive/v1.3.1.tar.gz'
-  sha1 'd5370d5e0dfb3c6ac56e96ffa3643512c7c10ad5'
+  sha1 '7dffd7c099e4fe668ef8a1c36585e4f279df4b4c'
 
   #depends_on 'python'
   #depends_on 'paramiko' => :python
