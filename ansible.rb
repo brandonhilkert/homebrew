@@ -6,9 +6,9 @@ class Ansible < Formula
   url 'https://github.com/ansible/ansible/archive/v1.3.1.tar.gz'
   sha1 'd5370d5e0dfb3c6ac56e96ffa3643512c7c10ad5'
 
-  depends_on 'python'
-  depends_on 'paramiko' => :python
-  depends_on 'jinja2' => :python
+  #depends_on 'python'
+  #depends_on 'paramiko' => :python
+  #depends_on 'jinja2' => :python
 #  depends_on 'pyyaml' => :python
 
   def install
